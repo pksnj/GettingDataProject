@@ -1,0 +1,18 @@
+tBodyAcc-mean-X : Mean of BodyAcc on X-axis
+tBodyAcc-mean-Y : Mean of BodyAcc on Y-axis
+tBodyAcc-mean-Z : Mean of BodyAcc on Z-axis
+tBodyAcc-std-X  : Standard Deviation of BodyAcc on X-axis
+tBodyAcc-std-Y  : Standard Deviation of BodyAcc on Y-axis
+tBodyAcc-std-Z  : Standard Deviation of BodyAcc on Z-axis
+
+Subject
+ Each individual is a subject. There are 
+
+ActivityCode
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
