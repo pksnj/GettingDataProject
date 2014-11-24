@@ -1,3 +1,5 @@
+Following variables are used in the analysis:
+
 tBodyAcc-mean-X : Mean of BodyAcc on X-axis
 tBodyAcc-mean-Y : Mean of BodyAcc on Y-axis
 tBodyAcc-mean-Z : Mean of BodyAcc on Z-axis
@@ -5,14 +7,24 @@ tBodyAcc-std-X  : Standard Deviation of BodyAcc on X-axis
 tBodyAcc-std-Y  : Standard Deviation of BodyAcc on Y-axis
 tBodyAcc-std-Z  : Standard Deviation of BodyAcc on Z-axis
 
-Subject
+Subject :
  Each individual is a subject. There are 
 
-ActivityCode
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+act_label: descriptive of activities
+	1 WALKING
+	2 WALKING_UPSTAIRS
+	3 WALKING_DOWNSTAIRS
+	4 SITTING
+	5 STANDING
+	6 LAYING
+
+Following Variables are used in the uploaded result file:
+
+AverageOf_BodyAcc_mean_X: Average of variable tBodyAcc_mean_X
+AverageOf_BodyAcc_mean_Y: Average of variable tBodyAcc_mean_Y
+AverageOf_BodyAcc_mean_Z: Average of variable tBodyAcc_mean_Z
+AverageOf_BodyAcc_std_X: Average of variable tBodyAcc_std_X
+AverageOf_BodyAcc_std_Y: Average of variable tBodyAcc_std_Y
+AverageOf_BodyAcc_std_Z: Average of variable tBodyAcc_std_Z
+
 
